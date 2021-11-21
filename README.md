@@ -5,7 +5,9 @@ this is a notebook to scrape Pick 'N Pay food products in certain categories to 
 
 ### View the notebook live on Colab
 
-<a href=\"https://colab.research.google.com/github/adgsenpai/PickNPayScrapping/blob/main/Scrapping_Pick_N_Pay_Products.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
+<a href="https://colab.research.google.com/github/adgsenpai/PickNPayScrapping/blob/main/Scrapping_Pick_N_Pay_Products.ipynb">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
+</a>
 
 ## Why did i do this?
 
